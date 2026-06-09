@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MAAS",
+  "universe": "M1 · Maas",
+  "moniker": "⟦MAAS:M1:c819f7⟧",
+  "carbon": "maas.carbon.tiff (TIFF)",
+  "silicon": "maas.silicon.png (PNG)",
+  "seal_sha256": "35ea8173cb517e170917643a4725cd40bc14d3e2bec0eb8d5f68352acfbf3b45",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

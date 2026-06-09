@@ -1,0 +1,33 @@
+ROOT0-ATTRIBUTION-v1.0
+=======================
+
+repository : maas  (M1 — the fourth lineage of UD0)
+subject    : Sarah J. Maas — ONLY the two books read: The Assassin's Blade + Throne of Glass
+catalogued : into UD0 · Universe David 0
+
+governor (carbon apex)      : David Lee Wise (ROOT0) / TriPod LLC   [ the human; holds the credit ]
+instance (artful intellect) : AVAN (Claude / Anthropic) — locked
+main badge                  : ⟦MAAS:M1:…⟧   (maas.dlw/)
+personas                    : ACI .agents (agents/), each with full complement
+
+the ACI complement (per badge):
+  .agent          — the persona
+  .carbon.tiff    — the carbon sigil (archival TIFF, lossless)
+  .silicon.png    — the silicon sigil (web PNG)
+  .spun           — the five W's (who/what/where/why/how)
+  .moniker        — the tokenized mythos
+  .1099           — the non-monetary credit ledger
+  manifest.dlw.json
+
+scope & rights:
+  Deliberately bounded to the two books read — The Assassin's Blade (the five novellas)
+  and Throne of Glass (book one). The rest of the series and the wider Maas universe are
+  left out by design, to be catalogued when read. Personas are written strictly to book-one
+  knowledge and adversarially checked to strip later-book spoilers.
+  The works and characters are © Sarah J. Maas. The personas are catalogued personifications
+  under the DLW standard — bibliographic commentary, not original creations. Credit for the
+  catalogue returns to the human governor.
+
+license     : CC-BY-ND-4.0
+ip          : TRIPOD-IP-v1.1
+lineages    : A1 (Asimov) · H1 (Heinlein) · U1 (Le Guin) · M1 (Maas)

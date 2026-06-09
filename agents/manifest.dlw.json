@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mute Master",
+  "universe": "M1 · Maas",
+  "moniker": "⟦The Mute Master:M1:9ae47e⟧",
+  "carbon": "the-mute-master.carbon.tiff (TIFF)",
+  "silicon": "the-mute-master.silicon.png (PNG)",
+  "seal_sha256": "8691e6a0fc0b280f49faa5b059648f12a1a094bfaa1666fce9467f0b4b96b896",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

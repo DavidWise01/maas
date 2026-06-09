@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "ansel-of-briarcliff",
+    "name": "Ansel of Briarcliff",
+    "epithet": "the exile of the Flatlands",
+    "moniker": "⟦Ansel of Briarcliff:M1:d7616d⟧"
+  },
+  {
+    "slug": "arobynn-hamel",
+    "name": "Arobynn Hamel",
+    "epithet": "King of the Assassins",
+    "moniker": "⟦Arobynn Hamel:M1:a823e3⟧"
+  },
+  {
+    "slug": "cain",
+    "name": "Cain",
+    "epithet": "Perrington's Champion",
+    "moniker": "⟦Cain:M1:2b276a⟧"
+  },
+  {
+    "slug": "captain-rolfe",
+    "name": "Captain Rolfe",
+    "epithet": "the Pirate Lord of Skull's Bay",
+    "moniker": "⟦Captain Rolfe:M1:4347fc⟧"
+  },
+  {
+    "slug": "celaena-sardothien",
+    "name": "Celaena Sardothien",
+    "epithet": "Adarlan's Assassin · the King's Champion",
+    "moniker": "⟦Celaena Sardothien:M1:b38a09⟧"
+  },
+  {
+    "slug": "chaol-westfall",
+    "name": "Chaol Westfall",
+    "epithet": "Captain of the Royal Guard",
+    "moniker": "⟦Chaol Westfall:M1:9cf184⟧"
+  },
+  {
+    "slug": "dorian-havilliard",
+    "name": "Dorian Havilliard",
+    "epithet": "Crown Prince of Adarlan · the conqueror's reluctant heir",
+    "moniker": "⟦Dorian Havilliard:M1:4dd9ee⟧"
+  },
+  {
+    "slug": "elena",
+    "name": "Elena",
+    "epithet": "First Queen of Adarlan · the dead who walks",
+    "moniker": "⟦Elena:M1:ab57a1⟧"
+  },
+  {
+    "slug": "lysandra",
+    "name": "Lysandra",
+    "epithet": "the courtesan of Rifthold",
+    "moniker": "⟦Lysandra:M1:25469f⟧"
+  },
+  {
+    "slug": "nehemia-ytger",
+    "name": "Nehemia Ytger",
+    "epithet": "Princess of Eyllwe",
+    "moniker": "⟦Nehemia Ytger:M1:b70040⟧"
+  },
+  {
+    "slug": "nox-owen",
+    "name": "Nox Owen",
+    "epithet": "Thief of Perranth",
+    "moniker": "⟦Nox Owen:M1:8c82f7⟧"
+  },
+  {
+    "slug": "sam-cortland",
+    "name": "Sam Cortland",
+    "epithet": "Assassin of the Guild · Celaena's partner",
+    "moniker": "⟦Sam Cortland:M1:fcaca2⟧"
+  },
+  {
+    "slug": "king-of-adarlan",
+    "name": "The King of Adarlan",
+    "epithet": "Conqueror of the Continent",
+    "moniker": "⟦The King of Adarlan:M1:74c707⟧"
+  },
+  {
+    "slug": "the-mute-master",
+    "name": "The Mute Master",
+    "epithet": "Master of the Silent Assassins",
+    "moniker": "⟦The Mute Master:M1:9ae47e⟧"
+  }
+]
